@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-18 11:18:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ebf9d8f94f72320044f1b5e18110c70e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_63963_cognizant.job_desription_user</sys_name>

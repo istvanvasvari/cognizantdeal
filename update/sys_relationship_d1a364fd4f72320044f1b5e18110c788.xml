@@ -20,7 +20,7 @@
         <sys_class_name>sys_relationship</sys_class_name>
         <sys_created_by>istvan</sys_created_by>
         <sys_created_on>2017-05-18 12:00:29</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d1a364fd4f72320044f1b5e18110c788</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Candidates</sys_name>

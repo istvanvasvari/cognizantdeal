@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-18 11:18:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e3f9983d4f72320044f1b5e18110c76a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_63963_cognizant_job_desription.x_63963_cognizant.job_desription_user</sys_name>

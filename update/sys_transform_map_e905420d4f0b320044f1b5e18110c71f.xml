@@ -17,7 +17,7 @@
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-28 21:26:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e905420d4f0b320044f1b5e18110c71f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>TM_Candidate_user</sys_name>

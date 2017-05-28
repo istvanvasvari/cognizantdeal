@@ -19,7 +19,7 @@ current.addQuery('deal_number', parent.sys_id);
         <sys_class_name>sys_relationship</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-18 09:01:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>968a33e94f32320044f1b5e18110c768</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Resource needs</sys_name>

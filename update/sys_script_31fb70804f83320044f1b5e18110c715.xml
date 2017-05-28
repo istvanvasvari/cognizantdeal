@@ -50,7 +50,7 @@ gs.addInfoMessage("Candidate Passed. All other active Candidate reords for the s
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-25 13:38:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>31fb70804f83320044f1b5e18110c715</sys_id>

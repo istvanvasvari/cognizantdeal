@@ -47,7 +47,7 @@ gs.addInfoMessage("Deal set to Inactive. All active Resource reords for this Dea
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-25 13:03:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c0447c8c4f43320044f1b5e18110c7e3</sys_id>

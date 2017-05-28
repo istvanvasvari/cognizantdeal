@@ -24,7 +24,7 @@
         <omit_filters>false</omit_filters>
         <omit_if_empty>false</omit_if_empty>
         <omit_links>false</omit_links>
-        <omit_new_button>false</omit_new_button>
+        <omit_new_button>true</omit_new_button>
         <related_list>REL:d1a364fd4f72320044f1b5e18110c788</related_list>
         <sys_class_name>sys_ui_list_control</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -33,7 +33,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6fc2d1064f72320044f1b5e18110c754</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>x_63963_cognizant_resource_need</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
@@ -42,6 +42,6 @@
         <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
         <sys_update_name>sys_ui_list_control_6fc2d1064f72320044f1b5e18110c754</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-23 10:22:52</sys_updated_on>
+        <sys_updated_on>2017-05-28 22:19:15</sys_updated_on>
     </sys_ui_list_control>
 </record_update>

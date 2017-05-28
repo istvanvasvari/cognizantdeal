@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-05-18 08:40:38</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>86e5bfe54f32320044f1b5e18110c788</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>State</sys_name>

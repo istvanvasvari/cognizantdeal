@@ -84,7 +84,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>istvan</sys_created_by>
         <sys_created_on>2017-05-24 11:54:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3fdb1b2b4f72320044f1b5e18110c79b</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Istvan - Candidates per resourse needs 2</sys_name>

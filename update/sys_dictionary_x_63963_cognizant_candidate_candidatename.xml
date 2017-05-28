@@ -47,17 +47,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>istvan</sys_created_by>
         <sys_created_on>2017-05-18 11:12:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>d1c8dcf94f72320044f1b5e18110c7ab</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5a3fca814f4b320044f1b5e18110c72b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Candidate name</sys_name>
         <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
         <sys_update_name>sys_dictionary_x_63963_cognizant_candidate_candidatename</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-28 21:12:23</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-05-28 22:10:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

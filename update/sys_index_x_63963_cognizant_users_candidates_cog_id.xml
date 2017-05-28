@@ -2,7 +2,7 @@
 <record_update table="sys_index">
     <sys_index action="INSERT_OR_UPDATE">
         <col_name_string>cog_id</col_name_string>
-        <index_col_name element="cog_id" name="x_63963_cognizant_users_candidates">29318e494f0b320044f1b5e18110c773</index_col_name>
+        <index_col_name>29318e494f0b320044f1b5e18110c773</index_col_name>
         <logical_table_name>x_63963_cognizant_users_candidates</logical_table_name>
         <sys_class_name>sys_index</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -18,7 +18,7 @@
         <sys_update_name>sys_index_x_63963_cognizant_users_candidates_cog_id</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-05-28 21:28:02</sys_updated_on>
-        <table display_value="Users - Candidates" name="x_63963_cognizant_users_candidates">48ed2ae34f32320044f1b5e18110c736</table>
+        <table/>
         <unique_index>false</unique_index>
     </sys_index>
 </record_update>

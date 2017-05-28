@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>istvan</sys_created_by>
             <sys_created_on>2017-05-18 11:12:57</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>d1c8dcf94f72320044f1b5e18110c7ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Candidate Cognizant ID</sys_name>

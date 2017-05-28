@@ -29,7 +29,7 @@ ConValue.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-19 11:55:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a42c25ce4f72320044f1b5e18110c774</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>ConValue</sys_name>
