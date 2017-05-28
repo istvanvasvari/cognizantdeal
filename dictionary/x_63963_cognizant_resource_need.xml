@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Resource need" max_length="40" name="x_63963_cognizant_resource_need" type="collection">
-        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="County Value" max_length="40" name="con_value" type="string"/>
         <element label="Country" max_length="32" name="country" reference="x_63963_cognizant_country" type="reference"/>
         <element label="Current Date" max_length="40" name="current_date" type="glide_date"/>

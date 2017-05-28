@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Load Candidate Users" max_length="40" name="x_63963_cognizant_load_candidate_users" type="collection">
+        <element attributes="import_attribute_name=Cognizant ID,edge_encryption_enabled=true" label="Cognizant ID" max_length="40" name="u_cognizant_id" type="string"/>
+        <element attributes="import_attribute_name=Email,edge_encryption_enabled=true" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="import_attribute_name=Job title,edge_encryption_enabled=true" label="Job title" max_length="40" name="u_job_title" type="string"/>
+        <element attributes="import_attribute_name=Location,edge_encryption_enabled=true" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Phone,edge_encryption_enabled=true" label="Phone" max_length="40" name="u_phone" type="string"/>
+        <element attributes="import_attribute_name=Years of ServiceNow experience" label="Years of ServiceNow experience" max_length="40" name="u_years_of_ser_now_experience" type="integer"/>
+    </element>
+</database>

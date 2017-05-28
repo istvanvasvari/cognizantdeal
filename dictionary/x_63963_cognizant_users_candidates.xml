@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Users - Candidates" max_length="40" name="x_63963_cognizant_users_candidates" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cognizant ID" max_length="40" name="cog_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="150" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job title" max_length="40" name="job_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
         <element display="true" label="Name" max_length="100" name="name_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone number" max_length="40" name="phone" type="string"/>
+        <element label="Years of ServiceNow experience" max_length="40" name="years" type="integer"/>
+        <index name="index">
+            <element name="cog_id"/>
+        </index>
     </element>
 </database>
