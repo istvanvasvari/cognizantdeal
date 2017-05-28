@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Resource need" max_length="40" name="x_63963_cognizant_resource_need" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="County Value" max_length="40" name="con_value" type="string"/>
+        <element label="Country" max_length="32" name="country" reference="x_63963_cognizant_country" type="reference"/>
+        <element label="Current Date" max_length="40" name="current_date" type="glide_date"/>
+        <element label="Deal number" max_length="32" name="deal_number" reference="x_63963_cognizant_cognizant_deals" type="reference"/>
+        <element label="Duration (days)" max_length="40" name="duration1" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="JD type" max_length="40" name="jd_type" type="string">
+            <choice>
+                <element label="Developer" sequence="0" value="Developer"/>
+                <element label="Business Analyst" sequence="1" value="Business Analyst"/>
+                <element label="Architect" sequence="2" value="Architect"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="JD Value" max_length="40" name="jd_value" type="string"/>
+        <element label="Job description" max_length="65536" name="job_description" type="html"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Location type" max_length="40" name="location_type" type="string">
+            <choice>
+                <element label="Onsite" sequence="0" value="onsite"/>
+                <element label="Nearshore" sequence="1" value="nearshore"/>
+                <element label="Offshore" sequence="2" value="offshore"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="ODC needed" max_length="40" name="odc" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Project ID" max_length="40" name="project_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Name" max_length="40" name="project_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rate" max_length="40" name="rate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reason for SO" max_length="150" name="reason_so" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="r_state" type="string">
+            <choice>
+                <element label="Open" sequence="0" value="Open"/>
+                <element label="Fulfill" sequence="1" value="Fulfill"/>
+                <element label="In Progress" sequence="2" value="In Progress"/>
+                <element label="Closed by delivery" sequence="3" value="Closed by delivery"/>
+                <element label="Closed - Cancelled" sequence="4" value="Closed - Cancelled"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="SO number" max_length="40" name="so_number" type="string"/>
+        <element label="Start Date" max_length="40" name="startdate" type="glide_date"/>
+        <element label="Deal number" max_length="32" name="u_reference_2" reference="x_63963_cognizant_cognizant_deals" type="reference"/>
+        <index name="index">
+            <element name="country"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_2"/>
+        </index>
+        <index name="index3">
+            <element name="deal_number"/>
+        </index>
+    </element>
+</database>

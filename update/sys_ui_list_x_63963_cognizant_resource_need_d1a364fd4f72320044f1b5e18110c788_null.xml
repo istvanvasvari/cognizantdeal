@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="x_63963_cognizant_resource_need" relationship="d1a364fd4f72320044f1b5e18110c788" sys_domain="global" table="x_63963_cognizant_candidate" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_63963_cognizant_candidate" element="NULL" name="x_63963_cognizant_candidate" parent="x_63963_cognizant_resource_need" relationship="d1a364fd4f72320044f1b5e18110c788" sys_domain="global" view="Default view">dc035dc24f72320044f1b5e18110c71e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-19 10:05:52</sys_created_on>
+            <sys_id>58035dc24f72320044f1b5e18110c71f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-19 10:05:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>candidatecognizantid</element>
+            <list_id display_value="x_63963_cognizant_candidate" element="NULL" name="x_63963_cognizant_candidate" parent="x_63963_cognizant_resource_need" relationship="d1a364fd4f72320044f1b5e18110c788" sys_domain="global" view="Default view">dc035dc24f72320044f1b5e18110c71e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-19 10:05:52</sys_created_on>
+            <sys_id>dc035dc24f72320044f1b5e18110c71f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-19 10:05:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>candidatename</element>
+            <list_id display_value="x_63963_cognizant_candidate" element="NULL" name="x_63963_cognizant_candidate" parent="x_63963_cognizant_resource_need" relationship="d1a364fd4f72320044f1b5e18110c788" sys_domain="global" view="Default view">dc035dc24f72320044f1b5e18110c71e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-19 10:05:52</sys_created_on>
+            <sys_id>50035dc24f72320044f1b5e18110c720</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-19 10:05:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>interview</element>
+            <list_id display_value="x_63963_cognizant_candidate" element="NULL" name="x_63963_cognizant_candidate" parent="x_63963_cognizant_resource_need" relationship="d1a364fd4f72320044f1b5e18110c788" sys_domain="global" view="Default view">dc035dc24f72320044f1b5e18110c71e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-19 10:05:52</sys_created_on>
+            <sys_id>d0035dc24f72320044f1b5e18110c720</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-19 10:05:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>candidatejobtitle</element>
+            <list_id display_value="x_63963_cognizant_candidate" element="NULL" name="x_63963_cognizant_candidate" parent="x_63963_cognizant_resource_need" relationship="d1a364fd4f72320044f1b5e18110c788" sys_domain="global" view="Default view">dc035dc24f72320044f1b5e18110c71e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-19 10:05:52</sys_created_on>
+            <sys_id>54035dc24f72320044f1b5e18110c720</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-19 10:05:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>candidatelocation</element>
+            <list_id display_value="x_63963_cognizant_candidate" element="NULL" name="x_63963_cognizant_candidate" parent="x_63963_cognizant_resource_need" relationship="d1a364fd4f72320044f1b5e18110c788" sys_domain="global" view="Default view">dc035dc24f72320044f1b5e18110c71e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-19 10:05:52</sys_created_on>
+            <sys_id>d4035dc24f72320044f1b5e18110c720</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-19 10:05:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_63963_cognizant_candidate</name>
+            <parent>x_63963_cognizant_resource_need</parent>
+            <position/>
+            <relationship display_value="Candidates">d1a364fd4f72320044f1b5e18110c788</relationship>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-25 13:24:42</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb0ab8404f83320044f1b5e18110c7fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_63963_cognizant_candidate</sys_name>
+            <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
+            <sys_update_name>sys_ui_list_x_63963_cognizant_resource_need_d1a364fd4f72320044f1b5e18110c788_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-25 13:24:42</sys_updated_on>
+            <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

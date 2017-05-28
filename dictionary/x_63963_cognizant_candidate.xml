@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Candidate" max_length="40" name="x_63963_cognizant_candidate" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Available from" max_length="40" name="availablefrom" type="glide_date"/>
+        <element label="Bench" max_length="40" name="bench" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate Cognizant ID" max_length="40" name="candidatecognizantid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="candidateemail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Title" max_length="40" name="candidatejobtitle" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="candidatelocation" type="string"/>
+        <element label="Candidate name" max_length="32" name="candidatename" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="40" name="candidatephone" type="string"/>
+        <element label="Interview" max_length="40" name="interview" type="boolean"/>
+        <element label="Interview Date" max_length="40" name="interviewdate" type="glide_date_time"/>
+        <element label="Interview Date" max_length="40" name="interview_date" type="glide_date_time"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Resource need" max_length="32" name="resourceneedreference" reference="x_63963_cognizant_resource_need" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Open" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element label="Open" sequence="0" value="Open"/>
+                <element label="In Progress" sequence="1" value="In Progress"/>
+                <element label="Closed - Passed" sequence="2" value="Closed - Passed"/>
+                <element label="Closed - Cancelled" sequence="3" value="Closed - Cancelled"/>
+                <element label="Closed - Withdrawn" sequence="4" value="Closed - Withdrawn"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="1000" name="u_string_13" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project allocation" max_length="40" name="u_string_6" type="string"/>
+        <index name="index">
+            <element name="candidatename"/>
+        </index>
+        <index name="index2">
+            <element name="resourceneedreference"/>
+        </index>
+    </element>
+</database>

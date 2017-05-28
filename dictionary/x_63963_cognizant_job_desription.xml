@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Job Desription" max_length="40" name="x_63963_cognizant_job_desription" type="collection">
+        <element label="Job Description" max_length="65536" name="job_desc" type="html"/>
+        <element label="Job Type" max_length="100" name="job_type" type="string"/>
+        <element label="Value" max_length="40" name="value" type="integer"/>
+    </element>
+</database>

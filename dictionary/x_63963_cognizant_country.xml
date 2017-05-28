@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Country" max_length="40" name="x_63963_cognizant_country" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Country name" max_length="40" name="country_name" type="string"/>
+        <element label="Value" max_length="20" name="value_c" type="string"/>
+    </element>
+</database>

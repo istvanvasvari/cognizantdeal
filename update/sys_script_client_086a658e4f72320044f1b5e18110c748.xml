@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>jd_type</field>
+        <global>true</global>
+        <messages/>
+        <name>JD type - VALUE</name>
+        <order>400</order>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+   if (isLoading || newValue == '') {
+      return;
+   }
+
+ //Get the selected trade name (PBU) franchise value with glideajax, and set the variable franchise with that value
+                         
+                var ga = new GlideAjax('JDValue');
+                ga.addParam('sysparm_name', 'JDVal');
+                ga.addParam('sysparm_subcategory', newValue);
+                ga.getXML(doAlert);                         
+                
+}
+                               
+function doAlert(response){
+                var answer = response.responseXML.documentElement.getAttribute("answer");
+                //alert(answer);
+                var a = answer;
+	//g_form.addInfoMessage(a);
+                                g_form.setValue('jd_value', a); 
+                               
+                                
+                                
+                          
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-19 11:47:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>086a658e4f72320044f1b5e18110c748</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>JD type - VALUE</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
+        <sys_update_name>sys_script_client_086a658e4f72320044f1b5e18110c748</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-19 12:53:22</sys_updated_on>
+        <table>x_63963_cognizant_resource_need</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

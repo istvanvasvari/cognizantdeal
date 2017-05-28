@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="34cbd87d4f72320044f1b5e18110c737" sys_domain="global" table="x_63963_cognizant_candidate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:26:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8cbd87d4f72320044f1b5e18110c739</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_63963_cognizant_candidate" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">34cbd87d4f72320044f1b5e18110c737</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:26:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:26:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74cbd87d4f72320044f1b5e18110c73a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_63963_cognizant_candidate" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">34cbd87d4f72320044f1b5e18110c737</sys_ui_form>
+            <sys_ui_section caption="Candidate Allocation" display_value="Candidate Allocation" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">f4cbd87d4f72320044f1b5e18110c736</sys_ui_section>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:26:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_63963_cognizant_candidate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:26:01</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34cbd87d4f72320044f1b5e18110c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_63963_cognizant_candidate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_34cbd87d4f72320044f1b5e18110c737</sys_update_name>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:26:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

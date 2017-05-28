@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Candidate Allocation" section_id="f4cbd87d4f72320044f1b5e18110c736" sys_domain="global" table="x_63963_cognizant_candidate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bench</element>
+            <position>0</position>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:32:17</sys_created_on>
+            <sys_id>543d58bd4f72320044f1b5e18110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Allocation" display_value="Candidate Allocation" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">f4cbd87d4f72320044f1b5e18110c736</sys_ui_section>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_6</element>
+            <position>1</position>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:32:17</sys_created_on>
+            <sys_id>d43d58bd4f72320044f1b5e18110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Allocation" display_value="Candidate Allocation" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">f4cbd87d4f72320044f1b5e18110c736</sys_ui_section>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>availablefrom</element>
+            <position>2</position>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:32:17</sys_created_on>
+            <sys_id>583d58bd4f72320044f1b5e18110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Allocation" display_value="Candidate Allocation" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">f4cbd87d4f72320044f1b5e18110c736</sys_ui_section>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>interview</element>
+            <position>3</position>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:32:17</sys_created_on>
+            <sys_id>d83d58bd4f72320044f1b5e18110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Allocation" display_value="Candidate Allocation" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">f4cbd87d4f72320044f1b5e18110c736</sys_ui_section>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>interviewdate</element>
+            <position>4</position>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:32:17</sys_created_on>
+            <sys_id>5c3d58bd4f72320044f1b5e18110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Allocation" display_value="Candidate Allocation" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">f4cbd87d4f72320044f1b5e18110c736</sys_ui_section>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_13</element>
+            <position>5</position>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:32:17</sys_created_on>
+            <sys_id>dc3d58bd4f72320044f1b5e18110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Allocation" display_value="Candidate Allocation" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">f4cbd87d4f72320044f1b5e18110c736</sys_ui_section>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Candidate Allocation</caption>
+            <header>false</header>
+            <name>x_63963_cognizant_candidate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>istvan</sys_created_by>
+            <sys_created_on>2017-05-18 11:26:01</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4cbd87d4f72320044f1b5e18110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Candidate Allocation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
+            <sys_update_name>sys_ui_section_f4cbd87d4f72320044f1b5e18110c736</sys_update_name>
+            <sys_updated_by>istvan</sys_updated_by>
+            <sys_updated_on>2017-05-18 11:26:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
