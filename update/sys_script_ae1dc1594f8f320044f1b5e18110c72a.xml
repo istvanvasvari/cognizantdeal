@@ -21,7 +21,7 @@
         </filter_condition>
         <is_rest>false</is_rest>
         <message/>
-        <name>Set Resource Closed by delivery</name>
+        <name>Set Resource Closedby delivery</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -51,8 +51,8 @@ gs.addInfoMessage("Resource need record has been set to Closed by delivery");
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ae1dc1594f8f320044f1b5e18110c72a</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Set Resource Closed by delivery</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Set Resource Closedby delivery</sys_name>
         <sys_overrides/>
         <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
         <sys_policy/>
@@ -60,7 +60,7 @@ gs.addInfoMessage("Resource need record has been set to Closed by delivery");
         <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
         <sys_update_name>sys_script_ae1dc1594f8f320044f1b5e18110c72a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-29 12:18:25</sys_updated_on>
+        <sys_updated_on>2017-05-29 12:31:08</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
