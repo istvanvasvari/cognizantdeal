@@ -4,47 +4,47 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>job_desc</element>
-            <list_id display_value="x_63963_cognizant_job_desription" element="NULL" name="x_63963_cognizant_job_desription" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">91dcfc514f8f320044f1b5e18110c703</list_id>
+            <list_id display_value="x_63963_cognizant_job_desription" element="NULL" name="x_63963_cognizant_job_desription" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43573de14f03320044f1b5e18110c794</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-29 10:49:15</sys_created_on>
-            <sys_id>19dcfc514f8f320044f1b5e18110c703</sys_id>
+            <sys_created_on>2017-05-30 09:43:26</sys_created_on>
+            <sys_id>87573de14f03320044f1b5e18110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-29 10:49:15</sys_updated_on>
+            <sys_updated_on>2017-05-30 09:43:26</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>job_type</element>
-            <list_id display_value="x_63963_cognizant_job_desription" element="NULL" name="x_63963_cognizant_job_desription" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">91dcfc514f8f320044f1b5e18110c703</list_id>
+            <list_id display_value="x_63963_cognizant_job_desription" element="NULL" name="x_63963_cognizant_job_desription" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43573de14f03320044f1b5e18110c794</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-29 10:49:15</sys_created_on>
-            <sys_id>99dcfc514f8f320044f1b5e18110c703</sys_id>
+            <sys_created_on>2017-05-30 09:43:26</sys_created_on>
+            <sys_id>0b573de14f03320044f1b5e18110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-29 10:49:15</sys_updated_on>
+            <sys_updated_on>2017-05-30 09:43:26</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>value</element>
-            <list_id display_value="x_63963_cognizant_job_desription" element="NULL" name="x_63963_cognizant_job_desription" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">91dcfc514f8f320044f1b5e18110c703</list_id>
+            <list_id display_value="x_63963_cognizant_job_desription" element="NULL" name="x_63963_cognizant_job_desription" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">43573de14f03320044f1b5e18110c794</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-29 10:49:15</sys_created_on>
-            <sys_id>1ddcfc514f8f320044f1b5e18110c703</sys_id>
+            <sys_created_on>2017-05-30 09:43:26</sys_created_on>
+            <sys_id>8b573de14f03320044f1b5e18110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-29 10:49:15</sys_updated_on>
+            <sys_updated_on>2017-05-30 09:43:26</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -58,11 +58,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-28 22:16:26</sys_created_on>
+            <sys_created_on>2017-05-30 09:43:26</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fd80da054f4b320044f1b5e18110c778</sys_id>
+            <sys_id>43573de14f03320044f1b5e18110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_63963_cognizant_job_desription</sys_name>
             <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
@@ -71,7 +71,7 @@
             <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
             <sys_update_name>sys_ui_list_x_63963_cognizant_job_desription_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-28 22:16:26</sys_updated_on>
+            <sys_updated_on>2017-05-30 09:43:26</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

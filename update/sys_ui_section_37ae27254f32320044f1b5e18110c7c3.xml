@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 14:23:12</sys_created_on>
-            <sys_id>d07701084f83320044f1b5e18110c7db</sys_id>
+            <sys_created_on>2017-05-30 10:11:47</sys_created_on>
+            <sys_id>1add31294f03320044f1b5e18110c7fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_cognizant_deals" sys_domain="global" view="Default view">37ae27254f32320044f1b5e18110c7c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 14:23:12</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:11:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>customer</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 14:23:12</sys_created_on>
-            <sys_id>587701084f83320044f1b5e18110c7db</sys_id>
+            <sys_created_on>2017-05-30 10:11:47</sys_created_on>
+            <sys_id>9add31294f03320044f1b5e18110c7fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_cognizant_deals" sys_domain="global" view="Default view">37ae27254f32320044f1b5e18110c7c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 14:23:12</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:11:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>winzoneid</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 14:23:12</sys_created_on>
-            <sys_id>d87701084f83320044f1b5e18110c7db</sys_id>
+            <sys_created_on>2017-05-30 10:11:47</sys_created_on>
+            <sys_id>1edd31294f03320044f1b5e18110c7fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_cognizant_deals" sys_domain="global" view="Default view">37ae27254f32320044f1b5e18110c7c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 14:23:12</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:11:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>projectid</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 14:23:12</sys_created_on>
-            <sys_id>5c7701084f83320044f1b5e18110c7db</sys_id>
+            <sys_created_on>2017-05-30 10:11:47</sys_created_on>
+            <sys_id>9edd31294f03320044f1b5e18110c7fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_cognizant_deals" sys_domain="global" view="Default view">37ae27254f32320044f1b5e18110c7c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 14:23:12</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:11:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,69 +61,55 @@
             <element>project_name</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 14:23:12</sys_created_on>
-            <sys_id>dc7701084f83320044f1b5e18110c7db</sys_id>
+            <sys_created_on>2017-05-30 10:11:47</sys_created_on>
+            <sys_id>12dd31294f03320044f1b5e18110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_cognizant_deals" sys_domain="global" view="Default view">37ae27254f32320044f1b5e18110c7c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 14:23:12</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>deal_created</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 14:23:12</sys_created_on>
-            <sys_id>507701084f83320044f1b5e18110c7dc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_cognizant_deals" sys_domain="global" view="Default view">37ae27254f32320044f1b5e18110c7c3</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 14:23:12</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:11:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 14:23:12</sys_created_on>
-            <sys_id>d07701084f83320044f1b5e18110c7dc</sys_id>
+            <sys_created_on>2017-05-30 10:11:47</sys_created_on>
+            <sys_id>92dd31294f03320044f1b5e18110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_cognizant_deals" sys_domain="global" view="Default view">37ae27254f32320044f1b5e18110c7c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 14:23:12</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:11:47</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 14:23:12</sys_created_on>
-            <sys_id>547701084f83320044f1b5e18110c7dc</sys_id>
+            <sys_created_on>2017-05-30 10:11:47</sys_created_on>
+            <sys_id>16dd31294f03320044f1b5e18110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_cognizant_deals" sys_domain="global" view="Default view">37ae27254f32320044f1b5e18110c7c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 14:23:12</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:11:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
-            <position>8</position>
+            <element>deal_created</element>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 14:23:12</sys_created_on>
-            <sys_id>d47701084f83320044f1b5e18110c7dc</sys_id>
+            <sys_created_on>2017-05-30 10:11:47</sys_created_on>
+            <sys_id>96dd31294f03320044f1b5e18110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_cognizant_deals" sys_domain="global" view="Default view">37ae27254f32320044f1b5e18110c7c3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 14:23:12</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:11:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -139,7 +125,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>37ae27254f32320044f1b5e18110c7c3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_63963_cognizant_cognizant_deals</sys_name>
             <sys_overrides/>
             <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
@@ -148,7 +134,7 @@
             <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
             <sys_update_name>sys_ui_section_37ae27254f32320044f1b5e18110c7c3</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-18 08:09:04</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:11:47</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

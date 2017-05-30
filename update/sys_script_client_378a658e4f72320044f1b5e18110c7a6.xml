@@ -4,7 +4,7 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description/>
+        <description>Set the Country value field and calculate the rate.</description>
         <field>country</field>
         <global>true</global>
         <messages/>
@@ -33,18 +33,23 @@ function doAlert(response){
                                 g_form.setValue('con_value', b); 
 	
                                
-                                
+       var jdv = g_form.getValue('jd_value');
+var cov = g_form.getValue('con_value');	
+   //var jdv = 1.8 * 100;
+	//g_form.addInfoMessage("xxxx " + cov * jdv);
+	g_form.setValue('rate', cov * jdv);
+	//Type appropriate comment here, and begin script below                         
                                 
                           
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-19 11:48:46</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>378a658e4f72320044f1b5e18110c7a6</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Country - VALUE</sys_name>
         <sys_overrides/>
         <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
@@ -53,7 +58,7 @@ function doAlert(response){
         <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
         <sys_update_name>sys_script_client_378a658e4f72320044f1b5e18110c7a6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-19 12:53:17</sys_updated_on>
+        <sys_updated_on>2017-05-30 09:55:17</sys_updated_on>
         <table>x_63963_cognizant_resource_need</table>
         <type>onChange</type>
         <ui_type>0</ui_type>

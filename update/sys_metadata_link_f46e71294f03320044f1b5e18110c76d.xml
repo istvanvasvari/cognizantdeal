@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>715cb1e54f03320044f1b5e18110c784</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update table="x_63963_cognizant_resource_need"&gt;
+    &lt;x_63963_cognizant_resource_need action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;false&lt;/active&gt;
+        &lt;con_value&gt;4&lt;/con_value&gt;
+        &lt;country display_value="Switzerland"&gt;842731254f03320044f1b5e18110c71a&lt;/country&gt;
+        &lt;current_date/&gt;
+        &lt;deal_number display_value="DEAL0001003"&gt;bd3cb9a54f03320044f1b5e18110c7ac&lt;/deal_number&gt;
+        &lt;duration1&gt;2&lt;/duration1&gt;
+        &lt;jd_type&gt;Architect&lt;/jd_type&gt;
+        &lt;jd_value&gt;6&lt;/jd_value&gt;
+        &lt;job_description&gt;&lt;![CDATA[&lt;p&gt;&lt;span style="background-color: #008080;"&gt;Architect&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;This is&lt;/li&gt;&lt;li&gt;That is&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span style="color: #00ff00;"&gt;Yes it is&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;Very good skills!&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/job_description&gt;
+        &lt;location_type&gt;onsite&lt;/location_type&gt;
+        &lt;number&gt;RESN0001002&lt;/number&gt;
+        &lt;odc&gt;false&lt;/odc&gt;
+        &lt;project_id&gt;313123&lt;/project_id&gt;
+        &lt;project_name&gt;Pepsi to beat Coke&lt;/project_name&gt;
+        &lt;r_state&gt;Closed by delivery&lt;/r_state&gt;
+        &lt;rate&gt;24&lt;/rate&gt;
+        &lt;reason_so/&gt;
+        &lt;so_number/&gt;
+        &lt;startdate&gt;2017-05-31&lt;/startdate&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2017-05-30 10:05:12&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;715cb1e54f03320044f1b5e18110c784&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2017-05-30 10:08:48&lt;/sys_updated_on&gt;
+        &lt;u_reference_2/&gt;
+    &lt;/x_63963_cognizant_resource_need&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-30 10:14:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f46e71294f03320044f1b5e18110c76d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RESN0001002</sys_name>
+        <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
+        <sys_update_name>sys_metadata_link_f46e71294f03320044f1b5e18110c76d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-30 10:14:08</sys_updated_on>
+        <tablename>x_63963_cognizant_resource_need</tablename>
+    </sys_metadata_link>
+</record_update>

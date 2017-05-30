@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>871c71e54f03320044f1b5e18110c750</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_63963_cognizant_users_candidates">
+    <x_63963_cognizant_users_candidates action="INSERT_OR_UPDATE">
+        <cog_id>2342354</cog_id>
+        <email>istvan@cogni.com</email>
+        <job_title>Business Analyst</job_title>
+        <location>HU - Budapest</location>
+        <name_c>Istvan Birinyi</name_c>
+        <phone>45465421</phone>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-30 10:04:11</sys_created_on>
+        <sys_id>871c71e54f03320044f1b5e18110c750</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-30 10:04:11</sys_updated_on>
+        <years>8</years>
+    </x_63963_cognizant_users_candidates>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-30 10:14:34</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8b7e75294f03320044f1b5e18110c786</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Istvan Birinyi</sys_name>
+        <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
+        <sys_update_name>sys_metadata_link_8b7e75294f03320044f1b5e18110c786</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-30 10:14:34</sys_updated_on>
+        <tablename>x_63963_cognizant_users_candidates</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -27,7 +27,7 @@
         <element label="ODC needed" max_length="40" name="odc" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Project ID" max_length="40" name="project_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Project Name" max_length="40" name="project_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Rate" max_length="40" name="rate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rate" max_length="40" name="rate" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Reason for SO" max_length="150" name="reason_so" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="Open" label="State" max_length="40" name="r_state" type="string">
             <choice>

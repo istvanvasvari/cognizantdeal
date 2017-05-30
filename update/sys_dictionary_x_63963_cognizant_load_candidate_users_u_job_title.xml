@@ -48,7 +48,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-28 21:26:04</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>523f8a814f4b320044f1b5e18110c7e8</sys_id>
+        <sys_id>18d5b9dd4fcf320044f1b5e18110c782</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Job title</sys_name>
         <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
@@ -57,7 +57,7 @@
         <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
         <sys_update_name>sys_dictionary_x_63963_cognizant_load_candidate_users_u_job_title</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-05-28 22:11:01</sys_updated_on>
+        <sys_updated_on>2017-05-29 14:58:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e5b6b9114f03720044f1b5e18110c757</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_63963_cognizant_resource_need">
+    <x_63963_cognizant_resource_need action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <con_value/>
+        <country/>
+        <current_date/>
+        <deal_number display_value="DEAL0001001">eda6b9114f03720044f1b5e18110c752</deal_number>
+        <duration1/>
+        <jd_type/>
+        <jd_value/>
+        <job_description/>
+        <location_type/>
+        <number>RESN0001001</number>
+        <odc>false</odc>
+        <project_id>f</project_id>
+        <project_name>f</project_name>
+        <r_state>Open</r_state>
+        <rate/>
+        <reason_so/>
+        <so_number/>
+        <startdate/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-29 15:02:07</sys_created_on>
+        <sys_id>e5b6b9114f03720044f1b5e18110c757</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-29 15:02:07</sys_updated_on>
+        <u_reference_2/>
+    </x_63963_cognizant_resource_need>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-30 10:14:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b06e75294f03320044f1b5e18110c784</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RESN0001001</sys_name>
+        <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
+        <sys_update_name>sys_metadata_link_b06e75294f03320044f1b5e18110c784</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-30 10:14:08</sys_updated_on>
+        <tablename>x_63963_cognizant_resource_need</tablename>
+    </sys_metadata_link>
+</record_update>

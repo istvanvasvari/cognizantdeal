@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bd3cb9a54f03320044f1b5e18110c7ac</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_63963_cognizant_cognizant_deals">
+    <x_63963_cognizant_cognizant_deals action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cogn_id>123456</cogn_id>
+        <contact_person display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</contact_person>
+        <customer>Pepsi</customer>
+        <deal_created>2017-05-30 17:05:04</deal_created>
+        <email>admin@example.com</email>
+        <number>DEAL0001003</number>
+        <phone/>
+        <project_name>Pepsi to beat Coke</project_name>
+        <projectid>313123</projectid>
+        <state>1</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-30 10:05:04</sys_created_on>
+        <sys_id>bd3cb9a54f03320044f1b5e18110c7ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-30 10:05:04</sys_updated_on>
+        <winzoneid>1234</winzoneid>
+    </x_63963_cognizant_cognizant_deals>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-30 10:09:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ad6df9e54f03320044f1b5e18110c7a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEAL0001003</sys_name>
+        <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
+        <sys_update_name>sys_metadata_link_ad6df9e54f03320044f1b5e18110c7a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-30 10:09:49</sys_updated_on>
+        <tablename>x_63963_cognizant_cognizant_deals</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>e4a644484f03320044f1b5e18110c767</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>fe1df9e54f03320044f1b5e18110c71a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>candidatename</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>6ca644484f03320044f1b5e18110c767</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>721df9e54f03320044f1b5e18110c71b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>candidateemail</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>eca644484f03320044f1b5e18110c767</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>f21df9e54f03320044f1b5e18110c71b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,27 +47,27 @@
             <element>candidatejobtitle</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>60a644484f03320044f1b5e18110c768</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>761df9e54f03320044f1b5e18110c71b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>candidatelocation</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>e0a644484f03320044f1b5e18110c768</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>f61df9e54f03320044f1b5e18110c71b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>64a644484f03320044f1b5e18110c768</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>7a1df9e54f03320044f1b5e18110c71b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>resourceneedreference</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>e4a644484f03320044f1b5e18110c768</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>fa1df9e54f03320044f1b5e18110c71b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>state</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>68a644484f03320044f1b5e18110c768</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>7e1df9e54f03320044f1b5e18110c71b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>candidatecognizantid</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>e8a644484f03320044f1b5e18110c768</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>fe1df9e54f03320044f1b5e18110c71b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,27 +131,13 @@
             <element>candidatephone</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>6ca644484f03320044f1b5e18110c768</sys_id>
+            <sys_created_on>2017-05-30 10:08:32</sys_created_on>
+            <sys_id>721df9e54f03320044f1b5e18110c71c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>candidatelocation</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-25 09:40:02</sys_created_on>
-            <sys_id>eca644484f03320044f1b5e18110c768</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_63963_cognizant_candidate" sys_domain="global" view="Default view">fa2794b94f72320044f1b5e18110c709</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-25 09:40:02</sys_updated_on>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -167,7 +153,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fa2794b94f72320044f1b5e18110c709</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_63963_cognizant_candidate</sys_name>
             <sys_overrides/>
             <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
@@ -175,8 +161,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
             <sys_update_name>sys_ui_section_fa2794b94f72320044f1b5e18110c709</sys_update_name>
-            <sys_updated_by>istvan</sys_updated_by>
-            <sys_updated_on>2017-05-18 11:05:58</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-30 10:08:32</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

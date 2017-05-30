@@ -48,7 +48,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-18 08:40:38</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>b13f8a814f4b320044f1b5e18110c797</sys_id>
+        <sys_id>04d5b9dd4fcf320044f1b5e18110c718</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>State</sys_name>
         <sys_package display_value="Cognizant Deal" source="x_63963_cognizant">ad04bf9d4f72320044f1b5e18110c72f</sys_package>
@@ -57,7 +57,7 @@
         <sys_scope display_value="Cognizant Deal">ad04bf9d4f72320044f1b5e18110c72f</sys_scope>
         <sys_update_name>sys_dictionary_x_63963_cognizant_cognizant_deals_state</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-05-28 22:10:59</sys_updated_on>
+        <sys_updated_on>2017-05-29 14:58:28</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
